@@ -1,2 +1,2 @@
 # Calculator
-![alt text](./Calculator.png)
+![](./Calculator.png)
